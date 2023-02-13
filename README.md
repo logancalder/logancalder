@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @logancalder
 - 👀 I’m interested in software engineering specific to game development
-- 🌱 I’m currently learning C++ & UE5
+- 🌱 I’m currently learning C & UE5
 - 📫 How to reach me:
 lcalder2022@gmail.com
 
