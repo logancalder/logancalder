@@ -1,7 +1,7 @@
 ## Socials
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lcalder.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/logancalder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-calder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logan-calder-425a2124a/)
 <p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=logancalder&&show_icons=true&theme=dracula" alt="Logan's Github Stats">
 </p>  
