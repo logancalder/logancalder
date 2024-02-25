@@ -35,8 +35,8 @@
 
 <p>Hey! I'm Logan, a <strong>Computer Science & Engineering</strong> student at <strong>Santa Clara University</strong>. Allow me to tell you a little bit about myself...</p>
 <ul>
-  <li>19 years old</li>
-  <li>I interned at <strong>HPE</strong> Summer 2023 as a <strong>Software Engineering Intern</strong> in the networking workforce.</li>
+  <li>20 years old</li>
+  <li>I interned at <strong>HPE</strong> Summer & Fall 2023 & 2024 as a <strong>Software Engineering Intern</strong> in the networking workforce.</li>
   <li>I competed in Treehacks 2023 at <strong>Stanford University</strong></li>
   <li>I love coding Discord bots (currently working on Sayuri)!</li>
 </ul>
