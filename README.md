@@ -39,6 +39,6 @@
   <li>20 years old</li>
   <li>I interned at <strong>HPE</strong> Summer & Fall 2023 & 2024 as a <strong>Software Engineering Intern</strong> in the networking workforce.</li>
   <li>I competed in Treehacks 2023 at <strong>Stanford University</strong></li>
-  <li>I love coding Discord bots (currently working on Sayuri)!</li>
+  <li>I love coding Discord bots (currently working on King of Curses RPG)!</li>
 </ul>
 <p>If you'd like to learn more about me, you can visit my website linked above!</p>
