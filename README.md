@@ -47,6 +47,5 @@
   <li>I am working on a Senior project revolving around AR headsets for paramedics</strong></li>
   <li>I competed in Treehacks 2023 at <strong>Stanford University</strong></li>
   <li>I love coding Discord bots (currently working on King of Curses RPG)!</li>
-  <li>I'm a big video game enthusiast and server on the board for SCU's Esports club</li>
 </ul>
 <p>If you'd like to learn more about me, you can visit my website linked above!</p>
